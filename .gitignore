@@ -5,6 +5,8 @@ __pycache__/
 
 #raw data
 data/
+s3/
+
 
 # C extensions
 *.so
